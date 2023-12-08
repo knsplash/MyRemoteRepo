@@ -1,0 +1,3 @@
+C:\Users\knait.KNHP\Documents\elemental\MyRemoteRepo>poetry env use python
+Creating virtualenv myremoterepo-TcR6HLVr-py3.12 in C:\Users\knait.KNHP\AppData\Local\pypoetry\Cache\virtualenvs
+Using virtualenv: C:\Users\knait.KNHP\AppData\Local\pypoetry\Cache\virtualenvs\myremoterepo-TcR6HLVr-py3.12

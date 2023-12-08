@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "elemntal"
+version = "0.1.0"
+description = "my test repo"
+authors = ["kn <kanservice27182@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">= 3.11, < 3.13"
+ray = {extras = ["tune"], version = "^2.8.1"}
+numpy = "^1.26.2"
+scipy = "^1.11.4"
+optuna = "^3.4.0"
+pyside6 = "^6.6.1"
+matplotlib = "^3.8.2"
+dash = "^2.14.2"
+plotly = "^5.18.0"
+dash-bootstrap-components = "^1.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
