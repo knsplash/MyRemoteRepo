@@ -18,6 +18,8 @@ plotly = "^5.18.0"
 dash-bootstrap-components = "^1.5.0"
 sphinx = "^7.2.6"
 furo = "^2023.9.10"
+botorch = "^0.9.5"
+bayesian-optimization = "^1.4.3"
 
 
 [build-system]

@@ -12,10 +12,10 @@ elemental.core module
    :undoc-members:
    :show-inheritance:
 
-.. Module contents
-.. ---------------
+Module contents
+---------------
 
-.. .. automodule:: elemental
-..    :members:
-..    :undoc-members:
-..    :show-inheritance:
+.. automodule:: elemental
+   :members:
+   :undoc-members:
+   :show-inheritance:
